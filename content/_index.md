@@ -1,6 +1,6 @@
 ---
-title: "Ananke: a Hugo Theme"
-featured_image: '/images/gohugo-default-sample-hero-image.jpg'
+title: "Prognoza pentru aprilie 2020"
+featured_image: '/images/og-image-v1.jpg'
 description: "The last theme you'll ever need. Maybe."
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+Luna aprilie 2020 va avea o primă parte rece, chiar hibernală, însă aprilie va sfârși prin înregistrarea unor temperaturi estivale, cu valori de până la 30 de grade Celsius în sudul României.
